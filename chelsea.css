@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    }
+
+#animal_kingdom {
+    color: Red;
+}
+
+#tigers {
+    color: Orange;
+}
+
+#elephants {
+    color: Red;
+}
+
+.bold{
+    font-weight: bold;
+}
